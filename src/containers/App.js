@@ -46,6 +46,7 @@ class App extends Component {
                             <CardList robots={filteredRobots} />
                         </ErrorBoundry>
                     </Scroll>
+                    <a href="https://github.com/papstchaka" target="_blank" style={{position: "fixed", color: "black", top: "5px", left: "5px"}}>[2020] Alexander Christoph</a>
                 </div>
             );
     }
