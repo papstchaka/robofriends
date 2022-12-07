@@ -27,6 +27,7 @@
     "node-forge": "latest",
     "nth-check": "latest",
     "postcss": "latest",
+    "qs": "^6.11.0",
     "react": "latest",
     "react-dom": "latest",
     "react-redux": "latest",
