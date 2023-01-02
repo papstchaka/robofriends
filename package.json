@@ -24,6 +24,7 @@
     "@testing-library/user-event": "latest",
     "ansi-regex": "latest",
     "gh-pages": "latest",
+    "json5": "^2.2.3",
     "node-forge": "latest",
     "nth-check": "latest",
     "postcss": "latest",
