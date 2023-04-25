@@ -36,7 +36,8 @@
     "redux": "latest",
     "redux-logger": "latest",
     "redux-thunk": "latest",
-    "tachyons": "latest"
+    "tachyons": "latest",
+    "yaml": "^2.2.2"
   },
   "scripts": {
     "start": "react-scripts start",
