@@ -32,10 +32,11 @@
     "react": "latest",
     "react-dom": "latest",
     "react-redux": "latest",
-    "react-scripts": "latest",
+    "react-scripts": "^5.0.1",
     "redux": "latest",
     "redux-logger": "latest",
     "redux-thunk": "latest",
+    "semver": "^7.5.3",
     "tachyons": "latest",
     "yaml": "^2.2.2"
   },
