@@ -28,7 +28,7 @@
     "node-forge": "latest",
     "nth-check": "latest",
     "postcss": "latest",
-    "qs": "^6.11.0",
+    "qs": "^6.13.0",
     "react": "latest",
     "react-dom": "latest",
     "react-redux": "latest",
@@ -36,9 +36,9 @@
     "redux": "latest",
     "redux-logger": "latest",
     "redux-thunk": "latest",
-    "semver": "^7.5.3",
+    "semver": "^7.6.3",
     "tachyons": "latest",
-    "yaml": "^2.2.2"
+    "yaml": "^2.5.0"
   },
   "scripts": {
     "start": "react-scripts start",
